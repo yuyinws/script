@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         history
+// @name         keylol-history
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  add history feature for Keylol
+// @version      0.2
+// @description  给Keylol增加历史浏览记录功能
 // @author       yuyinws
 // @include      https://keylol.com/*
 // @icon         https://keylol.com/favicon.ico
 // @grant        unsafeWindow
+// @license      MIT
 // ==/UserScript==
 
 class History {
