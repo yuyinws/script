@@ -11,6 +11,7 @@
 // @grant        GM_setValue
 // @icon         https://www.v2ex.com/static/favicon.ico
 // @run-at       document-end
+// @license      MIT
 // ==/UserScript==
 (() => {
   // star限制值
