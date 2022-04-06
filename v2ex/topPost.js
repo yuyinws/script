@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         topPost
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  置顶v2ex高赞回复
 // @author       yuyinws
-// @match        https://www.v2ex.com/t/*
+// @match        *://v2ex.com/t/*
+// @match        *://*.v2ex.com/t/*
 // @grant        GM_registerMenuCommand
 // @grant        GM_unregisterMenuCommand
 // @grant        GM_getValue
