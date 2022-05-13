@@ -1,0 +1,3 @@
+[submodule "keylol/hot-reply"]
+	path = keylol/hot-reply
+	url = git@github.com:yuyinws/keylol-hot-reply.git
