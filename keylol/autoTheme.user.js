@@ -7,6 +7,7 @@
 // @match        https://keylol.com/*
 // @icon         https://keylol.com/favicon.ico
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
